@@ -1,0 +1,65 @@
+pop ak black no field 6.5
+pop ak black no battle 6
+pop ak black no minimal 9.5
+pop ak black no well 7
+pop ak red stattrak field 44
+pop ak red stattrak battle 45
+pop ak red stattrak well 42
+pop ak red stattrak minimal 55
+pop ak case no minimal 5
+pop ak case no factory 14
+pop ak case stattrak well 40
+pop ak case stattrak field 44
+pop ak case stattrak battle 40
+pop ak case stattrak minimal 55
+pop ak serpent no field 21
+pop ak serpent no minimal 35
+pop ak serpent no battle 18
+
+pop awp graphite stattrak factory 65
+pop awp graphite stattrak minimal 65
+pop awp boom stattrak minimal 38
+pop awp boom stattrak field 39
+pop awp lightning stattrak factory 50
+pop awp lightning stattrak minimal 45
+
+pop eagle blaze no factory 8.5
+pop eagle blaze no minimal 10
+pop eagle hypnotic stattrak factory 15
+pop eagle hypnotic stattrak minimal 13
+pop eagle golden stattrak factory 35
+
+pop five-seven case stattrak field 11
+pop five-seven case stattrak well 9
+pop five-seven case stattrak minimal 13
+
+pop quieter dark stattrak field 8.5
+pop quieter dark stattrak minimal 8.5
+pop quieter bright stattrak field 13.5
+pop quieter bright stattrak minimal 13.5
+pop quieter blood stattrak field 9
+pop quieter blood stattrak minimal 9
+pop quieter blood stattrak factory 12
+
+pop p90 death stattrak field 35
+pop p90 death stattrak minimal 39
+pop p90 cold stattrak factory 20
+pop p90 emerald stattrak field 21
+pop p90 emerald stattrak minimal 22
+
+pop ssg blood stattrak minimal 42
+
+pop usp overgrowth stattrak field 7.5
+pop usp overgrowth stattrak minimal 15
+pop usp overgrowth stattrak battle 6.5
+pop usp overgrowth stattrak well 7
+pop usp serum stattrak minimal 20
+pop usp serum stattrak field 22
+pop usp serum stattrak factory 25
+
+scam flip night no field 85
+scam flip night no well 70
+scam flip night no minimal 120
+scam flip _ no _ 65
+scam flip stained no field 70
+scam flip fade no factory 130
